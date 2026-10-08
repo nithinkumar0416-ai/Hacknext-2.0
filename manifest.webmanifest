@@ -1,0 +1,9 @@
+{
+  "name": "Mesh-Sync | REUNITE-X Location Intelligence",
+  "short_name": "Mesh-Sync",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6f3",
+  "theme_color": "#0b5d5e",
+  "description": "A local-first disaster response prototype. Demo data only."
+}
